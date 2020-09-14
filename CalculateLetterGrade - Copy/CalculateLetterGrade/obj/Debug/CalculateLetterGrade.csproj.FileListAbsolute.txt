@@ -1,0 +1,17 @@
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\Dominic Lanza\Source\Repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\Users\Dominic Lanza\Desktop\CalculateLetterGrade - Copy\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\Users\Dominic Lanza\Desktop\CalculateLetterGrade - Copy\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\Dominic Lanza\Desktop\CalculateLetterGrade - Copy\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\Dominic Lanza\Desktop\CalculateLetterGrade - Copy\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\Dominic Lanza\Desktop\CalculateLetterGrade - Copy\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\Dominic Lanza\Desktop\CalculateLetterGrade - Copy\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\Dominic Lanza\Desktop\CalculateLetterGrade - Copy\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
